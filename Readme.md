@@ -1,8 +1,8 @@
-# Olá, eu sou Cleber Yan 👋
+# Olá, eu sou Cleber Yan 
 
 🖥️ **Back-End Developer** | ☁️ **Estudando DevOps**
 
-Desenvolvedor Back-End apaixonado por construir APIs robustas e escaláveis. Atualmente expandindo meus conhecimentos para o universo DevOps — porque código que não vai pra produção não conta. 🚀
+Desenvolvedor Back-End apaixonado por construir APIs robustas e escaláveis. Atualmente expandindo meus conhecimentos para o universo DevOps — porque código que não vai pra produção não conta. 
 
 ---
 
@@ -38,19 +38,19 @@ Desenvolvedor Back-End apaixonado por construir APIs robustas e escaláveis. Atu
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
-- ☁️ **DevOps**: CI/CD, containers, cloud
-- 🏗️ **Arquitetura de APIs** com NestJS
-- 🗄️ **Bancos de dados** (SQL & NoSQL)
+-  **DevOps**: CI/CD, containers, cloud
+-  **Arquitetura de APIs** com NestJS
+-  **Bancos de dados** (SQL & NoSQL)
 
 ---
 
 ## 📂 Projetos
 
-- 🔧 **APIs REST** com NestJS + TypeScript
-- 🔐 **Autenticação e autorização** (JWT, Guards)
-- 📦 **Projetos de estudo** em DevOps
+-  **APIs REST** com NestJS + TypeScript
+-  **Autenticação e autorização** (JWT, Guards)
+-  **Projetos de estudo** em DevOps
 
 ---
 
