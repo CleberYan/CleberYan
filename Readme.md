@@ -2,7 +2,7 @@
 
 🖥️ **Back-End Developer** | ☁️ **Estudando DevOps**
 
-Desenvolvedor Back-End apaixonado por construir APIs robustas e escaláveis. Atualmente expandindo meus conhecimentos para o universo DevOps — porque código que não vai pra produção não conta. 
+Desenvolvedor Back-End apaixonado por construir APIs robustas e escaláveis. Atualmente expandindo meus conhecimentos para o universo DevOps. 
 
 ---
 
